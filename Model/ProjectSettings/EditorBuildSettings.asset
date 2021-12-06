@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_Test/WorldScaleAR-ManualAlignment_custom.unity
-    guid: 1d9ac8cbe91134f82a86aff2dcd5cad1
+    path: Assets/_NavDemo/NavDemo.unity
+    guid: cef78dd440b113347a0d7bb20c604bf0
   m_configObjects: {}
